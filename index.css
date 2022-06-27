@@ -138,9 +138,10 @@ input[type="checkbox"]{
 }
 
 .f{
-  position: fixed;
+  padding-top: 600px;
+  position: relative;
   bottom: 0;
-  width:100%;
+  width: 100%;
 }
 
 .container{
@@ -230,6 +231,7 @@ nav{
   
 }
   .f{
+    padding-top: 1000px;
     position: relative;
     bottom: 0;
     width: 100%;
