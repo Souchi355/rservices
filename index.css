@@ -228,7 +228,9 @@ nav{
   
 }
   .f{
-    padding-top: 2000px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
   }
 
   nav .menu-btn i{
