@@ -222,13 +222,13 @@ nav{
   padding: 0 40px 0 50px;
 }
 }
-@media(max-width: 454px){
+@media(max-width: 650px){
   .footer-col{
     width: 100%;
   
 }
   .f{
-    padding-top: 1000px;
+    padding-top: 2000px;
   }
 
   nav .menu-btn i{
