@@ -117,7 +117,7 @@ input[type="checkbox"]{
 @media (max-width: 1000px){
   
 }
-@media (max-width: 920px) {
+@media (max-width: 720px) {
   
 }
 .content{
@@ -222,7 +222,7 @@ nav{
   padding: 0 40px 0 50px;
 }
 }
-@media(max-width: 574px){
+@media(max-width: 454px){
   .footer-col{
     width: 100%;
   
