@@ -138,7 +138,7 @@ input[type="checkbox"]{
 }
 
 .f{
-  padding-top: 550px;
+  position:absolute;
 }
 
 .container{
